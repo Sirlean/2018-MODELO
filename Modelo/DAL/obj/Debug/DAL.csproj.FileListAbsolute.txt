@@ -1,0 +1,7 @@
+Z:\LIP2 3Mod\3B\Modelo\DAL\bin\Debug\DAL.dll
+Z:\LIP2 3Mod\3B\Modelo\DAL\bin\Debug\DAL.pdb
+Z:\LIP2 3Mod\3B\Modelo\DAL\bin\Debug\Model.dll
+Z:\LIP2 3Mod\3B\Modelo\DAL\bin\Debug\Model.pdb
+Z:\LIP2 3Mod\3B\Modelo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+Z:\LIP2 3Mod\3B\Modelo\DAL\obj\Debug\DAL.dll
+Z:\LIP2 3Mod\3B\Modelo\DAL\obj\Debug\DAL.pdb

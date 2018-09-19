@@ -1,0 +1,9 @@
+Z:\LIP2 3Mod\3B\Modelo\BLL\bin\Debug\BLL.dll
+Z:\LIP2 3Mod\3B\Modelo\BLL\bin\Debug\BLL.pdb
+Z:\LIP2 3Mod\3B\Modelo\BLL\bin\Debug\DAL.dll
+Z:\LIP2 3Mod\3B\Modelo\BLL\bin\Debug\Model.dll
+Z:\LIP2 3Mod\3B\Modelo\BLL\bin\Debug\DAL.pdb
+Z:\LIP2 3Mod\3B\Modelo\BLL\bin\Debug\Model.pdb
+Z:\LIP2 3Mod\3B\Modelo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+Z:\LIP2 3Mod\3B\Modelo\BLL\obj\Debug\BLL.dll
+Z:\LIP2 3Mod\3B\Modelo\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,5 @@
+Z:\LIP2 3Mod\3B\Modelo\Model\bin\Debug\Model.dll
+Z:\LIP2 3Mod\3B\Modelo\Model\bin\Debug\Model.pdb
+Z:\LIP2 3Mod\3B\Modelo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+Z:\LIP2 3Mod\3B\Modelo\Model\obj\Debug\Model.dll
+Z:\LIP2 3Mod\3B\Modelo\Model\obj\Debug\Model.pdb
